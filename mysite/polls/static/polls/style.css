@@ -1,0 +1,12 @@
+li a {
+    color: green;
+}
+
+html {
+    /* image credit: https://pixabay.com/en/milky-way-starry-sky-night-sky-star-2695569/ */
+    background: #1b1b9c url("images/background.jpg") no-repeat;
+}
+
+body {
+    background: #1b1b9c62;
+}
